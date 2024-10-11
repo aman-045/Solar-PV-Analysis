@@ -1,4 +1,3 @@
-Here's a revised version of your `README.md` file, formatted with bold headings, bullet points, and a more visually appealing structure:
 
 ---
 
@@ -29,7 +28,7 @@ The first model simulates a single PV module with adjustable **irradiance** and 
 - **I-V Plots**: Showcasing the relationship between current and voltage.
 - **P-V Plots**: Highlighting the power output as voltage changes.
 
-![Plots](Varying%20Temperature2.jpg)
+![Plots](Varying%20temperature2.jpg)
 
 ---
 
