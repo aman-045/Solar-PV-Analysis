@@ -64,8 +64,8 @@ To run the simulations in this repository:
    git clone https://github.com/your-username/Solar-PV.git
    ```
 3. Open the Simulink models:
-   - `PV_Cell_Simulation.slx` for single PV module simulations.
-   - `PV_Array_Simulation.slx` for partial shading simulations.
+   - `exp2.slx` for single PV module simulations.
+   - `exp3_partialshading.slx` for partial shading simulations.
 4. Run the simulation and observe the output plots for **I-V** and **P-V** characteristics.
 
 ---
@@ -78,10 +78,3 @@ Understanding the behavior of **PV modules** under varying environmental conditi
 - **Mitigate power losses** in solar arrays caused by partial shading.
 - Develop strategies to **enhance array performance** using **bypass diodes**.
 
----
-
-This README provides an in-depth explanation of the project, making it easy for others to follow and replicate your analysis.
-
----
-
-With this formatting, the `README.md` file is much easier to read and navigate, with visually distinct sections and more appealing highlights. Let me know if you'd like to make any further adjustments!
